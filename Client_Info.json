@@ -1,0 +1,7 @@
+{ "Client_Info": [
+    {"AccountID":"1","FirstName":"Rosabel","LastName":"Laurence","email":"rlaurence0@dropbox.com","City":"Santa Venera","Balance":23422.39},
+    {"AccountID":"2","FirstName":"Trish","LastName":"Smith","email":"tjanuaryst1@printfriendly.com","City":"Los Tangos","Balance":3730.52},
+    {"AccountID":"3","FirstName":"Sly","LastName":"Crepin","email":"screpin2@rakuten.co.jp","City":"Sete Lagoas","Balance":87934.98},
+    {"AccountID":"4","FirstName":"Dynah","LastName":"Collacombe","email":"dcollacombe3@sogou.com","City":"Apatin","Balance":7043.45},
+    {"AccountID":"5","FirstName":"Iolande","LastName":"Aspinall","email":"iaspinall4@de.vu","City":"Fox Creek","Balance":9240.00}
+    ]}
