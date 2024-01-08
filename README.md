@@ -1,5 +1,5 @@
 ## PROJECT 1
-A Python Command Line Interface banking application.
+# A Python Command Line Interface banking application.
 
 Technologies Used
 Python 3
