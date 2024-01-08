@@ -1,15 +1,14 @@
-## PROJECT 1
-# A Python Command Line Interface banking application.
+# PROJECT 1
+## A Python Command Line Interface banking application.
 
-Technologies Used
+### Technologies Used
 Python 3
 MongoDB
 PyMongo
 Visual Studio Code
 Git SCM (+GitHub)
-To-do list:
 
-Roles / Responsibilities 
+### Roles / Responsibilities 
 - Created a Python Command Line Interface  banking application for user interactions.
 - Utilized MongoDB to store data collections parsed from JSON files.
 - Utilized PyMongo to access the functionalities of MongoDB in Python.
